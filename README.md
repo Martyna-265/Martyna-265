@@ -7,6 +7,7 @@ Projects:
 - [Flower Clustering](https://github.com/Martyna-265/ML/tree/main/projekt_2)
 - [Weather Analysis](https://github.com/zabolot7/PDU_projekt2)
 - [ProjektJA](https://github.com/adawojterska/TWD_ProjektJA)
+- [Algebra in SET](https://github.com/Martyna-265/Algebra-in-SET/tree/main)
 
 
 <!--

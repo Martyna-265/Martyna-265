@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Projects:
-[Share a part, save a heart](https://github.com/Ola-zaw/Share-a-part-save-a-heart)
+- [Share a part, save a heart](https://github.com/Ola-zaw/Share-a-part-save-a-heart)
+- [KPC-2](https://github.com/Ola-zaw/KPC2)
 
 
 <!--

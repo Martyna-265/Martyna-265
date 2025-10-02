@@ -3,6 +3,10 @@
 Projects:
 - [Share a part, save a heart](https://github.com/Ola-zaw/Share-a-part-save-a-heart)
 - [KPC-2](https://github.com/Ola-zaw/KPC2)
+- [Diabetes Prediction](https://github.com/Martyna-265/ML/tree/main/projekt_1)
+- [Flower Clustering](https://github.com/Martyna-265/ML/tree/main/projekt_2)
+- [Weather Analysis](https://github.com/zabolot7/PDU_projekt2)
+- [ProjektJA](https://github.com/adawojterska/TWD_ProjektJA)
 
 
 <!--

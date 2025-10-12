@@ -1,27 +1,8 @@
-## Hi, I'm Martyna 👋
-
-About me
-I'm a third-year student in Data Science at the Faculty of Mathematics and Information Science, Warsaw University of Technology.
-In my free time, I enjoy reading books, playing games, drumming and exercising.
-
-Tools & Technologies
-Python, java, R, C#, SQL, C++, Dart, Matlab, Numpy, Pandas, Scikit-learn, tensorFlow, pytorch, matplotlib, plotly, latex, shiny, ggplot2, bokeh
-Jupyter, RStudio, Intellij, Pycharm, Eclipse, GitHub, BitBucket, Matlab, SQL Server, Visual Studio, VS Code, Unity, GameMaker, Canva
-
-Projects:
-- [Share a part, save a heart](https://github.com/Ola-zaw/Share-a-part-save-a-heart) - a poster about organ transplantation made in R and Canva
-- [Diabetes Prediction](https://github.com/Martyna-265/ML/tree/main/projekt_1) - a machine learning model for predicting diabetes made in Python
-- [Flower Clustering](https://github.com/Martyna-265/ML/tree/main/projekt_2) - a machine learning model for clustering flower types made in Python
-- [ProjektJA](https://github.com/adawojterska/TWD_ProjektJA) - a dashboard analysing the different ways we spend our time made in R and Shiny
-- [Walutozaur](https://github.com/Ola-zaw/Walutozaur) - an application made in Java, where you can check currency exchange rates obtained from the National Bank of Poland
-- [KPC-2](https://github.com/Ola-zaw/KPC2) - a project for identifying potential inhibitors of the KPC-2 enzyme made in Python
-- [Weather Analysis](https://github.com/zabolot7/PDU_projekt2) - an analysis and visualisation of weather data made in Python
-- [Algebra in SET](https://github.com/Martyna-265/Algebra-in-SET/tree/main) - an analysis of the algebra of the game SET made in Python
-
-Contact
-msadowska05@gmail.com
-
 # Hi, I'm Martyna 👋
+
+---
+
+## 🔍 About me
 
 I'm a third-year **Data Science Student** at the Faculty of Mathematics and Information Science, Warsaw University of Technology. In my free time, I love **reading books**📚, **playing games**🎮, **drumming**🥁, and **exercising**🏋️‍♀️.
 
@@ -37,7 +18,7 @@ I'm a third-year **Data Science Student** at the Faculty of Mathematics and Info
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
 ![Matlab](https://img.shields.io/badge/-Matlab-ff8c00?logo=mathworks&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 

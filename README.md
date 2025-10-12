@@ -1,10 +1,8 @@
 # Hi, I'm Martyna 👋
 
----
-
 ## 🔍 About me
 
-I'm a third-year **Data Science Student** at the Faculty of Mathematics and Information Science, Warsaw University of Technology. In my free time, I love **reading books**📚, **playing games**🎮, **drumming**🥁, and **exercising**🏋️‍♀️.
+I'm a third-year Data Science Student at the Faculty of Mathematics and Information Science, Warsaw University of Technology. In my free time, I love reading books 📚, playing games 🎮, drumming 🥁, and exercising 🏋️‍♀️.
 
 ---
 
@@ -17,13 +15,13 @@ I'm a third-year **Data Science Student** at the Faculty of Mathematics and Info
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-ff8c00?logo=mathworks&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)   
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=python&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white) 

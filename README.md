@@ -47,7 +47,7 @@ I'm a third-year student of Data Engineering and Analysis at the Faculty of Math
 
 ## 📂 Selected Projects
 
-- [**Share a part, save a heart**](https://github.com/Ola-zaw/Share-a-part-save-a-heart) — a poster about **organ transplantation** (R).
+- [**Share a part, save a heart**](https://github.com/Ola-zaw/Share-a-part-save-a-heart) — a poster about organ transplantation (R).
 - [**Diabetes Prediction**](https://github.com/Martyna-265/ML/tree/main/projekt_1) — machine learning model predicting diabetes (Python).  
 - [**Flower Clustering**](https://github.com/Martyna-265/ML/tree/main/projekt_2) — clustering flower types using ML algorithms (Python).  
 - [**ProjektJA**](https://github.com/adawojterska/TWD_ProjektJA) — interactive dashboard analyzing how we spend their time (R + Shiny).  

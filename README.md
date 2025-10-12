@@ -2,7 +2,7 @@
 
 ## 🔍 About me
 
-I'm a third-year Data Science Student at the Faculty of Mathematics and Information Science, Warsaw University of Technology. In my free time, I love reading books 📚, playing games 🎮, drumming 🥁, and exercising 🏋️‍♀️.
+I'm a third-year student of Data Engineering and Analysis at the Faculty of Mathematics and Information Science, Warsaw University of Technology. In my free time, I love reading books 📚, playing games 🎮, drumming 🥁, and exercising 🏋️‍♀️.
 
 ---
 
@@ -21,8 +21,8 @@ I'm a third-year Data Science Student at the Faculty of Mathematics and Informat
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)   
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)    
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=python&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) 
@@ -31,16 +31,16 @@ I'm a third-year Data Science Student at the Faculty of Mathematics and Informat
 ![Bokeh](https://img.shields.io/badge/-Bokeh-2E4A62?logo=python&logoColor=white)
 
 ### Tools & IDEs
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) 
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) 
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) 
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) 
 ![GameMaker](https://img.shields.io/badge/-GameMaker-000000?logo=gamemaker&logoColor=white) 
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)

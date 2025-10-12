@@ -27,7 +27,11 @@ I'm a third-year student of Data Engineering and Analysis at the Faculty of Math
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) 
 ![Shiny](https://img.shields.io/badge/-Shiny-00AEEF?logo=rstudio&logoColor=white) 
 ![ggplot2](https://img.shields.io/badge/-ggplot2-1a162d?logo=r&logoColor=white) 
-![Bokeh](https://img.shields.io/badge/-Bokeh-2E4A62?logo=python&logoColor=white)   
+![Bokeh](https://img.shields.io/badge/-Bokeh-2E4A62?logo=python&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?logo=python&logoColor=white) 
+![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=java&logoColor=white) 
+![Jakarta Mail API](https://img.shields.io/badge/-Jakarta%20Mail%20API-007396?logo=java&logoColor=white) 
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)   
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) 

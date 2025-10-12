@@ -23,10 +23,7 @@ msadowska05@gmail.com
 
 # Hi, I'm Martyna 👋
 
-I'm a third-year **Data Science Student** at the Faculty of Mathematics and Information Science, Warsaw University of Technology.  
-**:contentReference[oaicite:0]{index=0}**
-
-In my free time, I love **reading books**📚, **playing games**🎮, **drumming**🥁, and **exercising**🏋️‍♀️.
+I'm a third-year **Data Science Student** at the Faculty of Mathematics and Information Science, Warsaw University of Technology. In my free time, I love **reading books**📚, **playing games**🎮, **drumming**🥁, and **exercising**🏋️‍♀️.
 
 ---
 
@@ -40,6 +37,7 @@ In my free time, I love **reading books**📚, **playing games**🎮, **drumming
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Matlab](https://img.shields.io/badge/-Matlab-ff8c00?logo=mathworks&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 
@@ -72,14 +70,14 @@ In my free time, I love **reading books**📚, **playing games**🎮, **drumming
 
 ## 📂 Selected Projects
 
-- 🫀 [**Share a part, save a heart**](https://github.com/Ola-zaw/Share-a-part-save-a-heart) — a poster about **organ transplantation** (R).
-- 🩺 [**Diabetes Prediction**](https://github.com/Martyna-265/ML/tree/main/projekt_1) — machine learning model predicting diabetes (Python).  
-- 🌸 [**Flower Clustering**](https://github.com/Martyna-265/ML/tree/main/projekt_2) — clustering flower types using ML algorithms (Python).  
-- ⏳ [**ProjektJA**](https://github.com/adawojterska/TWD_ProjektJA) — interactive dashboard analyzing how we spend their time (R + Shiny).  
-- 💱 [**Walutozaur**](https://github.com/Ola-zaw/Walutozaur) — an application for checking currency exchange rates from :contentReference[oaicite:1]{index=1} (Java).  
-- 🧬 [**KPC-2**](https://github.com/Ola-zaw/KPC2) — identifying potential inhibitors of the KPC-2 enzyme (Python).  
-- 🌦️ [**Weather Analysis**](https://github.com/zabolot7/PDU_projekt2) — analysis and visualisation of weather data (Python).  
-- 🃏 [**Algebra in SET**](https://github.com/Martyna-265/Algebra-in-SET/tree/main) — exploration of algebraic structures behind the game SET (Python).
+- [**Share a part, save a heart**](https://github.com/Ola-zaw/Share-a-part-save-a-heart) — a poster about **organ transplantation** (R).
+- [**Diabetes Prediction**](https://github.com/Martyna-265/ML/tree/main/projekt_1) — machine learning model predicting diabetes (Python).  
+- [**Flower Clustering**](https://github.com/Martyna-265/ML/tree/main/projekt_2) — clustering flower types using ML algorithms (Python).  
+- [**ProjektJA**](https://github.com/adawojterska/TWD_ProjektJA) — interactive dashboard analyzing how we spend their time (R + Shiny).  
+- [**Walutozaur**](https://github.com/Ola-zaw/Walutozaur) — an application for checking currency exchange rates from the National Bank of Poland (Java).  
+- [**KPC-2**](https://github.com/Ola-zaw/KPC2) — identifying potential inhibitors of the KPC-2 enzyme (Python).  
+- [**Weather Analysis**](https://github.com/zabolot7/PDU_projekt2) — analysis and visualisation of weather data (Python).  
+- [**Algebra in SET**](https://github.com/Martyna-265/Algebra-in-SET/tree/main) — exploration of algebraic structures behind the game SET (Python).
 
 ---
 
@@ -91,15 +89,3 @@ In my free time, I love **reading books**📚, **playing games**🎮, **drumming
 
 <!--
 **Martyna-265/Martyna-265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

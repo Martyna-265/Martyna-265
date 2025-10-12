@@ -8,7 +8,6 @@ I'm a third-year student of Data Engineering and Analysis at the Faculty of Math
 
 ## 🛠️ Tools & Technologies
 
-### Languages & Libraries
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) 
@@ -28,9 +27,8 @@ I'm a third-year student of Data Engineering and Analysis at the Faculty of Math
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) 
 ![Shiny](https://img.shields.io/badge/-Shiny-00AEEF?logo=rstudio&logoColor=white) 
 ![ggplot2](https://img.shields.io/badge/-ggplot2-1a162d?logo=r&logoColor=white) 
-![Bokeh](https://img.shields.io/badge/-Bokeh-2E4A62?logo=python&logoColor=white)
+![Bokeh](https://img.shields.io/badge/-Bokeh-2E4A62?logo=python&logoColor=white)   
 
-### Tools & IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) 
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white) 

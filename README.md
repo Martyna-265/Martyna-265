@@ -59,6 +59,8 @@ I'm a third-year student of Data Engineering and Analysis at the Faculty of Math
 - [**KPC-2**](https://github.com/Ola-zaw/KPC2) — identifying potential inhibitors of the KPC-2 enzyme (Python).  
 - [**Weather Analysis**](https://github.com/zabolot7/PDU_projekt2) — analysis and visualisation of weather data (Python).  
 - [**Algebra in SET**](https://github.com/Martyna-265/Algebra-in-SET/tree/main) — exploration of algebraic structures behind the game SET (Python).
+- [**Tunability Importance of ML Algorithms**](https://github.com/Ola-zaw/Tunability-of-ML-Algorithms) - analysis of the tunability of machine learning algorithms (Python) 🚧 *in progress*.
+- [**BattleBottles**](https://github.com/Martyna-265/BattleBottles) - mobile app inspired by the battleships game (Flutter) 🚧 *in progress*.
 
 ---
 

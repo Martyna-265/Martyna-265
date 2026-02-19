@@ -51,6 +51,7 @@ I'm a third-year student of Data Engineering and Analysis at the Faculty of Math
 
 ## 📂 Selected Projects
 
+- [**BattleBottles**](https://github.com/Martyna-265/BattleBottles) - mobile app inspired by the battleships game (Flutter).
 - [**Share a part, save a heart**](https://github.com/Ola-zaw/Share-a-part-save-a-heart) — a poster about organ transplantation (R).
 - [**Diabetes Prediction**](https://github.com/Martyna-265/ML/tree/main/projekt_1) — machine learning model predicting diabetes (Python).  
 - [**Flower Clustering**](https://github.com/Martyna-265/ML/tree/main/projekt_2) — clustering flower types using ML algorithms (Python).  
@@ -59,8 +60,8 @@ I'm a third-year student of Data Engineering and Analysis at the Faculty of Math
 - [**KPC-2**](https://github.com/Ola-zaw/KPC2) — identifying potential inhibitors of the KPC-2 enzyme (Python).  
 - [**Weather Analysis**](https://github.com/zabolot7/PDU_projekt2) — analysis and visualisation of weather data (Python).  
 - [**Algebra in SET**](https://github.com/Martyna-265/Algebra-in-SET/tree/main) — exploration of algebraic structures behind the game SET (Python).
-- [**Tunability Importance of ML Algorithms**](https://github.com/Ola-zaw/Tunability-of-ML-Algorithms) - analysis of the tunability of machine learning algorithms (Python) 🚧 *in progress*.
-- [**BattleBottles**](https://github.com/Martyna-265/BattleBottles) - mobile app inspired by the battleships game (Flutter) 🚧 *in progress*.
+- [**Tunability Importance of ML Algorithms**](https://github.com/Martyna-265/Tunability-of-ML-Algorithms) - analysis of the tunability of machine learning algorithms (Python).
+- [**Mini-AutoML**](https://github.com/Martyna-265/MINI-AutoML) - an automated ML system designed to solve binary classification tasks on arbitrary tabular datasets (Python).
 
 ---
 

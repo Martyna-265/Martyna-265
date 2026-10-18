@@ -51,16 +51,18 @@ I'm a third-year student of Data Engineering and Analysis at the Faculty of Math
 
 ## 📂 Selected Projects
 
-- [**BattleBottles**](https://github.com/Martyna-265/BattleBottles) - mobile app inspired by the battleships game (Flutter).
-- [**Share a part, save a heart**](https://github.com/Martyna-265/Share-a-part-save-a-heart) - a poster about organ transplantation (R).
-- [**Diabetes Prediction**](https://github.com/Martyna-265/ML/tree/main/projekt_1) - machine learning model predicting diabetes (Python).  
+- [**Blind Spots**](https://github.com/Martyna-265/vision_blindspots) - an in-depth analysis identifying and describing 'blind spots' in vision models (Python)
+- [**Image Processing**](https://github.com/Martyna-265/Image-processing-project) - an image processing application (Java)
+- [**Iris Recognition**](https://github.com/Martyna-265/iris-recognition-project) - an iris recognition application (Java)
+- [**Fingerprint Recognition**](https://github.com/Martyna-265/fingerprint-recognition-project) - a fingerprint recognition application (Java)
+- [**Housing Data Warehouse**](https://github.com/Martyna-265/Data_Warehouse_Deweloperzy) - a data warehouse used to analyze the Polish real estate market (SQL + PowerBI)
+- [**Fragmented Document Reconstruction**](https://github.com/zalewskaz/Fragmented-Document-Reconstruction) - an application for document reconstruction (Python) (*in progress* 🚧)
+- [**BattleBottles**](https://github.com/Martyna-265/BattleBottles) - a mobile app inspired by the battleships game (Flutter).
+- [**Share a Part, Save a Heart**](https://github.com/Martyna-265/Share-a-part-save-a-heart) - a poster about organ transplantation (R).
+- [**Diabetes Prediction**](https://github.com/Martyna-265/ML/tree/main/projekt_1) - a machine learning model predicting diabetes (Python).  
 - [**Flower Clustering**](https://github.com/Martyna-265/ML/tree/main/projekt_2) - clustering flower types using ML algorithms (Python).  
-- [**ProjektJA**](https://github.com/Martyna-265/ProjektJA) - interactive dashboard analyzing how we spend their time (R + Shiny).  
-- [**Walutozaur**](https://github.com/Martyna-265/Walutozaur) - an application for checking currency exchange rates from the National Bank of Poland (Java).  
 - [**KPC-2**](https://github.com/Martyna-265/KPC2) - identifying potential inhibitors of the KPC-2 enzyme (Python).  
-- [**Weather Analysis**](https://github.com/Martyna-265/Weather-Data-Analysis) - analysis and visualisation of weather data (Python).  
-- [**Algebra in SET**](https://github.com/Martyna-265/Algebra-in-SET/tree/main) - exploration of algebraic structures behind the game SET (Python).
-- [**Tunability Importance of ML Algorithms**](https://github.com/Martyna-265/Tunability-of-ML-Algorithms) - analysis of the tunability of machine learning algorithms (Python).
+- [**Tunability Importance of ML Algorithms**](https://github.com/Martyna-265/Tunability-of-ML-Algorithms) - an analysis of the tunability of machine learning algorithms (Python).
 - [**Mini-AutoML**](https://github.com/Martyna-265/MINI-AutoML) - an automated ML system designed to solve binary classification tasks on arbitrary tabular datasets (Python).
 
 ---

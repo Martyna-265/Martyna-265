@@ -2,7 +2,7 @@
 
 ## 🔍 About me
 
-I'm a third-year student of Data Engineering and Analysis at the Faculty of Mathematics and Information Science at Warsaw University of Technology. In my free time, I love reading books 📚, playing games 🎮, drumming 🥁, and exercising 🏋️‍♀️.
+I'm a fourth-year student of Data Engineering and Analysis at the Faculty of Mathematics and Information Science at Warsaw University of Technology. In my free time, I love reading books 📚, playing games 🎮, drumming 🥁, and exercising 🏋️‍♀️.
 
 ---
 
